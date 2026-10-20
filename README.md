@@ -1,7 +1,4 @@
-# hyapp-support
+# hyapp-support (moved)
 
-Public support and privacy pages for HakanYilmaz94 apps, served with GitHub Pages:
-https://hakanyilmaz94.github.io/hyapp-support/
-
-One folder per app (e.g. `crownly/index.html` support, `crownly/privacy.html` privacy policy).
-Contact: hyapps@outlook.com
+The support and privacy pages now live on https://hyapps.app (repo `HakanYilmaz94/HakanYilmaz94.github.io`).
+These files only redirect old links (`/hyapp-support/...`) to the new addresses.
